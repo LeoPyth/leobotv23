@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6285380166282', '️One', true],
-  ['6285380166282', '️Two', true],
-  ['6285380166282', '️Three', true],
-  ['6285380166282', '️Four', true],
-  ['6285380166282', '️Five', true],
-  ['6285380166282', '️Six', true],
-  ['6285380166282', '️Seven', true],
-  ['6285380166282', '️Eight', true],
-  ['6285380166282', '️Nine', true],
-  ['6285380166282', '️Teen', true]
+  ['6287824899711', '️One', true],
+  ['6287824899711', '️Two', true],
+  ['6287824899711', '️Three', true],
+  ['6287824899711', '️Four', true],
+  ['6287824899711', '️Five', true],
+  ['6287824899711', '️Six', true],
+  ['6287824899711', '️Seven', true],
+  ['6287824899711', '️Eight', true],
+  ['6287824899711', '️Nine', true],
+  ['6287824899711', '️Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -85,14 +85,14 @@ global.xckey = '7iyNa0qA'
 
 /*Number*/
 global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = 'Mexxy Botz 🔥'
+global.nomorown = '6287824899711'
+global.namebot = 'Fangz 🔥'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
-global.wm = '                「 Mexxy Botz 🔥  」'
+global.wm = '                「 Fangz 🔥  」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Mexxy Botz 🔥'
+global.wm3 = '⫹⫺ Fangz 🔥'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -436,7 +436,7 @@ global.htjava = '⫹⫺'
 global.stickpack = '.'
 global.stickauth = `☂︎ 𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.author = '𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛 乂 Leo'
 global.multiplier = 10
 
 /*Pesan*/
