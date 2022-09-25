@@ -84,7 +84,7 @@ global.xckey = '7iyNa0qA'
 */
 
 /*Number*/
-global.nomorbot = '6285295374964'
+global.nomorbot = '6287824899711'
 global.nomorown = '6287824899711'
 global.namebot = 'Fangz 🔥'
 global.nameown = '「 Oᴡɴᴇʀ 」'
